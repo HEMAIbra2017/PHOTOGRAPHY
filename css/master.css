@@ -1,0 +1,20 @@
+
+body{
+  margin: 0;
+padding: 0;
+background-color: #FCFCFC
+}
+
+
+/******* Navbar *********/
+
+nav{
+  background-color: #FCFCFC
+}
+nav a,.nav-link{
+  color: #000000
+}
+hr{
+
+  color: #707070
+}
